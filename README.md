@@ -15,4 +15,4 @@ which aims to investigate how developers collaborate in Open Source Software (OS
 
 - Generate the Authors Cross Entropy using the script 003_generate_ACE.py and results saved in ACE_files_20000.pickle
 
-
+## Research Question2
